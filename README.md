@@ -1,4 +1,4 @@
-# Pratise Pandas
+# Practise Pandas
 Step by step practising Pandas
 
 ## Reference
